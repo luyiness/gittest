@@ -10,4 +10,8 @@ public class Hello {
         System.out.println(123);
     }
 
+    public void fuck(){
+
+        System.out.println("lu");
+    }
 }
