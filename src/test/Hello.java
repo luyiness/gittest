@@ -1,0 +1,13 @@
+package test;
+
+/**
+ * @Date:2020/10_4:16 下午
+ * @Description：
+ */
+public class Hello {
+
+    public static void main(String[] args) {
+        System.out.println(123);
+    }
+
+}
