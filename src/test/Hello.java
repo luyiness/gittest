@@ -14,4 +14,8 @@ public class Hello {
 
         System.out.println("lu");
     }
+
+    public void test() {
+
+    }
 }
